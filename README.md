@@ -1,2 +1,5 @@
 # Voltage-wave-generator
-Generates sinusoidal AC, sawtooth, PWM, etc. voltage.
+<p>Functions including :</p>
+- sinusoidal
+- sawtooth
+- PWM (with adjustable duty cycle)
